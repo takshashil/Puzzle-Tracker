@@ -3,154 +3,168 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>37b5b1a7b07150107f4417ec281085a6</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>93e672e7b0f150107f4417ec28108576</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>3fb5b1a7b07150107f4417ec281085a6</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>5be672e7b0f150107f4417ec28108576</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>bfb5b1a7b07150107f4417ec281085a6</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>dbe672e7b0f150107f4417ec28108576</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>length</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>33b5b1a7b07150107f4417ec281085a7</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>5fe672e7b0f150107f4417ec28108576</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>owner</element>
             <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>b3b5b1a7b07150107f4417ec281085a7</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>dfe672e7b0f150107f4417ec28108576</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>width</element>
             <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>37b5b1a7b07150107f4417ec281085a7</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>53e672e7b0f150107f4417ec28108577</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>b7b5b1a7b07150107f4417ec281085a7</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>d3e672e7b0f150107f4417ec28108577</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>missing_pieces</element>
             <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>3bb5b1a7b07150107f4417ec281085a7</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>57e672e7b0f150107f4417ec28108577</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number_of_pieces</element>
             <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>bbb5b1a7b07150107f4417ec281085a7</sys_id>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>d7e672e7b0f150107f4417ec28108577</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>units</element>
+            <position>9</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>5be672e7b0f150107f4417ec28108577</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 12:32:40</sys_created_on>
-            <sys_id>3fb5b1a7b07150107f4417ec281085a7</sys_id>
+            <position>10</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>dbe672e7b0f150107f4417ec28108577</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 12:32:40</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>image</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-10 13:32:17</sys_created_on>
-            <sys_id>706382afb07150107f4417ec281085b9</sys_id>
+            <position>11</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-07-10 17:17:27</sys_created_on>
+            <sys_id>5fe672e7b0f150107f4417ec28108577</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1234_puzzle_trac_puzzle" sys_domain="global" view="Default view">ffb571a7b07150107f4417ec28108536</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-10 13:32:17</sys_updated_on>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-07-10 17:17:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

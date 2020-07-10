@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>25aafd2bb07150107f4417ec281085b6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1234_puzzle_trac_puzzle">
+    <x_1234_puzzle_trac_puzzle action="INSERT_OR_UPDATE">
+        <length>48</length>
+        <missing_pieces>false</missing_pieces>
+        <name>Joe Employee Record</name>
+        <number>PUZ0001001</number>
+        <number_of_pieces>1000</number_of_pieces>
+        <owner display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</owner>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 12:54:37</sys_created_on>
+        <sys_id>25aafd2bb07150107f4417ec281085b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 12:54:37</sys_updated_on>
+        <width>66</width>
+    </x_1234_puzzle_trac_puzzle>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-10 12:54:50</sys_created_on>
+        <sys_id>a0da716bb07150107f4417ec28108509</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Joe Employee Record</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="x_1234_puzzle_trac">1c1ea1a3b07150107f4417ec2810855d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">1c1ea1a3b07150107f4417ec2810855d</sys_scope>
+        <sys_update_name>sys_metadata_link_a0da716bb07150107f4417ec28108509</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-10 12:54:50</sys_updated_on>
+        <tablename>x_1234_puzzle_trac_puzzle</tablename>
+    </sys_metadata_link>
+</record_update>
